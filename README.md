@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Free%20Domain%20%26%20Hosting%20Hub&fontSize=36&fontAlignY=35&desc=Your%202026%20Ultimate%20Resource%20for%20Zero-Cost%20Web%20Services&descAlignY=58&animation=fadeIn" width="100%"/>
-
 [![GitHub Repo stars](https://img.shields.io/github/stars/Grexlabs/free-domain-hosting?style=for-the-badge&logo=github&color=yellow)](https://github.com/Grexlabs/free-domain-hosting/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Grexlabs/free-domain-hosting?style=for-the-badge&logo=github&color=blue)](https://github.com/Grexlabs/free-domain-hosting/network)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=git)](https://github.com/Grexlabs/free-domain-hosting/pulls)
