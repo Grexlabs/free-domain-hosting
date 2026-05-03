@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=🌐%20Free%20Domain%20%26%20Hosting%20Hub&fontSize=40&fontAlignY=36&fontColor=ffffff&desc=The%20Ultimate%202026%20Directory%20—%20100%2B%20Zero-Cost%20Web%20Services&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
-<br/>
 
 <!-- Animated typing effect badge row -->
 <a href="https://github.com/Grexlabs/free-domain-hosting/stargazers"><img src="https://img.shields.io/github/stars/Grexlabs/free-domain-hosting?style=for-the-badge&logo=github&color=f7df1e&labelColor=1a1a2e" alt="Stars"/></a>
