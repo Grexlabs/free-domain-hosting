@@ -804,6 +804,6 @@ Cost:      $0 / month ✅ — handles dozens of apps
 
 Made with ❤️ by **[GrexLabs](https://github.com/Grexlabs)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer&text=Happy%20Building%20🚀&fontSize=28&fontAlignY=65&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,50:66a6ff,100:a18cd1&height=150&section=footer&text=MK%E2%80%A2DEV&fontSize=38&fontAlignY=65&fontColor=ffffff&animation=fadeIn" />
 
 </div>
