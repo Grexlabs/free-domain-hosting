@@ -11,7 +11,8 @@
 
 <br/><br/>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+100%25%2B+Free+Hosting+Platforms+%26+Domains;%F0%9F%8C%8D+Free+Subdomains+for+Every+Project;%E2%9A%A1+Deploy+in+Seconds+%E2%80%94+Zero+Cost;%F0%9F%94%92+Free+SSL+%2B+CDN+Included;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Developer-First%2C+Always+Free" />
+<br>
 
 ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
