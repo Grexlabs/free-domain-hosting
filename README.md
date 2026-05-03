@@ -11,9 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=🚀+100%2B+Free+Hosting+Platforms+%26+Domains;🌍+Free+Subdomains+for+Every+Project;⚡+Deploy+in+Seconds+—+Zero+Cost;🔒+Free+SSL+%2B+CDN+Included;🧑‍💻+Developer-First%2C+Always+Free" alt="Typing SVG"/>
 
-<br/>
 
 ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
